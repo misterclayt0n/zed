@@ -1,0 +1,22 @@
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"App","operation":"open"}
+{"signed_in":false,"milliseconds_since_first_event":40,"type":"Setting","setting":"theme","value":"One Dark"}
+{"signed_in":false,"milliseconds_since_first_event":40,"type":"Setting","setting":"keymap","value":"VSCode"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"blackula","version":"0.1.1"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"catppuccin","version":"0.2.8"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"gentle-dark","version":"0.0.2"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"git-firefly","version":"0.0.3"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"gruber-darker","version":"0.0.4"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"html","version":"0.1.1"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"lua","version":"0.0.3"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"macos-classic","version":"0.0.8"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"poimandres","version":"0.0.3"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"the-dark-side","version":"0.2.5"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"toml","version":"0.1.1"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"zig","version":"0.1.3"}
+{"signed_in":false,"milliseconds_since_first_event":217,"type":"Editor","operation":"open","file_extension":"json","vim_mode":true,"copilot_enabled":true,"copilot_enabled_for_language":false}
+{"signed_in":false,"milliseconds_since_first_event":258,"type":"Editor","operation":"open","file_extension":"json","vim_mode":true,"copilot_enabled":true,"copilot_enabled_for_language":false}
+{"signed_in":true,"milliseconds_since_first_event":8071,"type":"Setting","setting":"theme","value":"The Dark Side"}
+{"signed_in":true,"milliseconds_since_first_event":21279,"type":"Action","source":"command palette","action":"zed: open settings"}
+{"signed_in":true,"milliseconds_since_first_event":21292,"type":"Editor","operation":"open","file_extension":"json","vim_mode":true,"copilot_enabled":true,"copilot_enabled_for_language":false}
+{"signed_in":true,"milliseconds_since_first_event":239960,"type":"Memory","memory_in_bytes":261885952,"virtual_memory_in_bytes":57044070400}
+{"signed_in":true,"milliseconds_since_first_event":239960,"type":"Cpu","usage_as_percentage":1.870717,"core_count":8}
